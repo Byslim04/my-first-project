@@ -1,1 +1,1 @@
-print(Привет, Git")
+print("Привет, AI Automation Engineer!")
